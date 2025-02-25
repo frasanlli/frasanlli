@@ -7,9 +7,11 @@ I'm F. Sancho, a Junior Developer with a strong foundation in Python. Also, I kn
 
 📂 Check out my repositories to see some of my projects, including:
 
-    supermarket_prices: Price scrapping program to get the cheapest options (€/kg) between 3 different spanish supermarkets. [Python: Selenium, Pandas, Tkinter / DB Non-SQL: Firebase]
+    supermarket_prices: Price scrapping program to get the cheapest options (€/kg) 
+    between 3 different spanish supermarkets. [Python: Selenium, Pandas, Tkinter / DB Non-SQL: Firebase]
 
-    calibration-mail: Example of web-app for users to control devices avaliability and calibration dates.[Python: Django / DB SQL: sqllite3]
+    calibration-mail: Example of web-app for users to control devices avaliability 
+    and calibration dates.[Python: Django / DB SQL: sqllite3]
 
 📫 Let’s connect! Feel free to connect with me on https://www.linkedin.com/in/francisco-sancho-llimera-722437239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
