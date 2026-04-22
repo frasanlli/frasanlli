@@ -1,4 +1,4 @@
-I'm F. Sancho, a Junior Developer with a strong foundation in Python. Also, I know the basics in Java and Kotlin. 
+I'm F. Sancho, a Junior Developer with a strong foundation in Python. Also, I know the basics in Java, Kotlin and JavaScript. 
 
 
 💻 I’m currently expanding my skills in JavaScript and working on personal projects to grow as a developer.
