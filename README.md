@@ -1,7 +1,7 @@
 I'm F. Sancho, a Junior Developer with a strong foundation in Python. Also, I know the basics in Java and Kotlin. 
 
 
-💻 I’m currently expanding my skills in Django and working on personal projects to grow as a developer.
+💻 I’m currently expanding my skills in JavaScript and working on personal projects to grow as a developer.
 
 🔍 Actively seeking opportunities to contribute to innovative teams, learn from experienced professionals and make an impact through code.
 
@@ -12,6 +12,10 @@ I'm F. Sancho, a Junior Developer with a strong foundation in Python. Also, I kn
 
     calibration-mail: Example of web-app for users to control devices avaliability 
     and calibration dates.[Python: Django / DB SQL: sqllite3]
+
+    pdf_to_csv: Web-app to extract text from a complex pdf's structure.
+    User can select the areas and name it, then create a .csv file with the data.
+    [JavaScript: pdf.js]
 
 📫 Let’s connect! Feel free to connect with me on https://www.linkedin.com/in/francisco-sancho-llimera-722437239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
